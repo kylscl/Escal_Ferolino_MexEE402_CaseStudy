@@ -9,7 +9,7 @@ Batangas State University, Alangilan Campus
 | Name | Student Number | Section |
 |---|---|---|
 | Surname, First Name | | |
-| Surname, First Name | | |
+| Ferolino, Sean William | |MEXE 4103 |
 
 ## Notebook links
 
