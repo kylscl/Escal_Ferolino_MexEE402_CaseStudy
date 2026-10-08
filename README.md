@@ -11,13 +11,13 @@ Batangas State University, Alangilan Campus
 | Name | Student Number | Section |
 |---|---|---|
 | Escal, Princess Kyle J. | <div align="center"> 22-08310 </div> | MEXE 4103 |
-| Ferolino, Sean William | |MEXE 4103 |
+| Ferolino, Sean William | <div align="center"> 22-9712 </div> |MEXE 4103 |
 
 ### 𝐍𝐎𝐓𝐄𝐁𝐎𝐎𝐊 𝐋𝐈𝐍𝐊𝐒
 
 | Chapter | Escal | Ferolino |
 |---|---|---|
-| Ch1_2_3 | [Escal_Ch1_2_3](https://colab.research.google.com/drive/1H2GSfeUPs9Sk5jwJNOC4q5iQTZrZiGEy?usp=sharing) | [link]() |
+| Ch1_2_3 | [Escal_Ch1_2_3](https://colab.research.google.com/drive/1H2GSfeUPs9Sk5jwJNOC4q5iQTZrZiGEy?usp=sharing) | [Ferolino_Ch1_2_3](https://colab.research.google.com/drive/1pT8tmNiL3JRdm7VIphCLoMBFm2OxecIp#scrollTo=rI4jSuMONBDn) |
 | Ch4 | [Escal_Ch4](https://colab.research.google.com/drive/1KP6OkgG9jv0BT-3K8tHsbNW7-rL5aPCr?usp=sharing) | [link]() |
 | Ch5 | [Escal_Ch5](https://colab.research.google.com/drive/1sxu-xxZ-7ZKLUQ--cMZEu04B8u33A86k?usp=sharing) | [link]() |
 | Ch6 | [Escal_Ch6](https://colab.research.google.com/drive/1_PwVZJJ5rH5lufbEd602_3RMCRh33i33?usp=sharing) | [link]() |
