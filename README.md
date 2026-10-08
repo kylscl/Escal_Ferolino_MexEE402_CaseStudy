@@ -15,15 +15,15 @@ Batangas State University, Alangilan Campus
 
 ### 𝐍𝐎𝐓𝐄𝐁𝐎𝐎𝐊 𝐋𝐈𝐍𝐊𝐒
 
-| Chapter | Member 1 | Member 2 |
+| Chapter | Escal | Ferolino |
 |---|---|---|
-| Ch1_2_3 | [link]() | [link]() |
-| Ch4 | [link]() | [link]() |
-| Ch5 | [link]() | [link]() |
-| Ch6 | [link]() | [link]() |
-| Ch7 | [link]() | [link]() |
-| Ch8 | [link]() | [link]() |
-| Ch9 | [link]() | [link]() |
+| Ch1_2_3 | [Escal_Ch1_2_3](https://colab.research.google.com/drive/1H2GSfeUPs9Sk5jwJNOC4q5iQTZrZiGEy?usp=sharing) | [link]() |
+| Ch4 | [Escal_Ch4](https://colab.research.google.com/drive/1KP6OkgG9jv0BT-3K8tHsbNW7-rL5aPCr?usp=sharing) | [link]() |
+| Ch5 | [Escal_Ch5](https://colab.research.google.com/drive/1sxu-xxZ-7ZKLUQ--cMZEu04B8u33A86k?usp=sharing) | [link]() |
+| Ch6 | [Escal_Ch6](https://colab.research.google.com/drive/1_PwVZJJ5rH5lufbEd602_3RMCRh33i33?usp=sharing) | [link]() |
+| Ch7 | [Escal_Ch7](https://colab.research.google.com/drive/1-EfjXrJRYhTEhazv_s9VCxd2B3SwMBGr?usp=sharing) | [link]() |
+| Ch8 | [Escal_Ch8](https://colab.research.google.com/drive/1PvrKPCs9IwGTFlpMIncJgUNJyvTtvHu3?usp=sharing) | [link]() |
+| Ch9 | [Escal_Ch_9](https://colab.research.google.com/drive/1w6hggnkU0vRsNEq8G6_u6xvAuUeSxh0K?usp=sharing) | [link]() |
 
 </div>
 
