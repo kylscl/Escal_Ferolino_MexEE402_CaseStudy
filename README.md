@@ -10,7 +10,7 @@ Batangas State University, Alangilan Campus
 
 | Name | Student Number | Section |
 |---|---|---|
-| Escal, Princess Kyle J. | | MEXE 4103 |
+| Escal, Princess Kyle J. | 22-08310 | MEXE 4103 |
 | Ferolino, Sean William | |MEXE 4103 |
 
 ### 𝐍𝐎𝐓𝐄𝐁𝐎𝐎𝐊 𝐋𝐈𝐍𝐊𝐒
