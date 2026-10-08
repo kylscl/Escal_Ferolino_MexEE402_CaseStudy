@@ -18,12 +18,12 @@ Batangas State University, Alangilan Campus
 | Chapter | Escal | Ferolino |
 |---|---|---|
 | Ch1_2_3 | [Escal_Ch1_2_3](https://colab.research.google.com/drive/1H2GSfeUPs9Sk5jwJNOC4q5iQTZrZiGEy?usp=sharing) | [Ferolino_Ch1_2_3](https://colab.research.google.com/drive/1pT8tmNiL3JRdm7VIphCLoMBFm2OxecIp#scrollTo=rI4jSuMONBDn) |
-| Ch4 | [Escal_Ch4](https://colab.research.google.com/drive/1KP6OkgG9jv0BT-3K8tHsbNW7-rL5aPCr?usp=sharing) | [link]() |
-| Ch5 | [Escal_Ch5](https://colab.research.google.com/drive/1sxu-xxZ-7ZKLUQ--cMZEu04B8u33A86k?usp=sharing) | [link]() |
-| Ch6 | [Escal_Ch6](https://colab.research.google.com/drive/1_PwVZJJ5rH5lufbEd602_3RMCRh33i33?usp=sharing) | [link]() |
-| Ch7 | [Escal_Ch7](https://colab.research.google.com/drive/1-EfjXrJRYhTEhazv_s9VCxd2B3SwMBGr?usp=sharing) | [link]() |
-| Ch8 | [Escal_Ch8](https://colab.research.google.com/drive/1PvrKPCs9IwGTFlpMIncJgUNJyvTtvHu3?usp=sharing) | [link]() |
-| Ch9 | [Escal_Ch9](https://colab.research.google.com/drive/1w6hggnkU0vRsNEq8G6_u6xvAuUeSxh0K?usp=sharing) | [link]() |
+| Ch4 | [Escal_Ch4](https://colab.research.google.com/drive/1KP6OkgG9jv0BT-3K8tHsbNW7-rL5aPCr?usp=sharing) | [Ferolino_Ch_4](https://colab.research.google.com/drive/1Rq3U_ydf-qj3pRqVqV9DbfU5qKWjJq-k) |
+| Ch5 | [Escal_Ch5](https://colab.research.google.com/drive/1sxu-xxZ-7ZKLUQ--cMZEu04B8u33A86k?usp=sharing) | [Ferolino_Ch_5](https://colab.research.google.com/drive/1KGeULrgeNkgaOfsLlbP0RaGTiYT34hxj) |
+| Ch6 | [Escal_Ch6](https://colab.research.google.com/drive/1_PwVZJJ5rH5lufbEd602_3RMCRh33i33?usp=sharing) | [Ferolino_Ch_6](https://colab.research.google.com/drive/1ozpgF4Ljgjg6MouU3XwKeczWJ2o68zvr) |
+| Ch7 | [Escal_Ch7](https://colab.research.google.com/drive/1-EfjXrJRYhTEhazv_s9VCxd2B3SwMBGr?usp=sharing) | [Ferolino_Ch_7](https://colab.research.google.com/drive/18K2EEQYtcgUuG2y0t-naRz9bKZttSD8q) |
+| Ch8 | [Escal_Ch8](https://colab.research.google.com/drive/1PvrKPCs9IwGTFlpMIncJgUNJyvTtvHu3?usp=sharing) | [Ferolino_Ch_8](https://colab.research.google.com/drive/1-sevAeUxIWnWuiqmowukvJ-wGrW06E8b) |
+| Ch9 | [Escal_Ch9](https://colab.research.google.com/drive/1w6hggnkU0vRsNEq8G6_u6xvAuUeSxh0K?usp=sharing) | [Ferolino_Ch_9](https://colab.research.google.com/drive/1nWIMngRyn6cMaAzmwqQ2KYdNsGovNZw7) |
 
 </div>
 
