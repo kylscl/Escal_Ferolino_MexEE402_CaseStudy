@@ -10,7 +10,7 @@ Batangas State University, Alangilan Campus
 
 | Name | Student Number | Section |
 |---|---|---|
-| Escal, Princess Kyle J. | 22-08310 | MEXE 4103 |
+| Escal, Princess Kyle J. | <div align="center"> 22-08310 </div> | MEXE 4103 |
 | Ferolino, Sean William | |MEXE 4103 |
 
 ### 𝐍𝐎𝐓𝐄𝐁𝐎𝐎𝐊 𝐋𝐈𝐍𝐊𝐒
@@ -29,8 +29,38 @@ Batangas State University, Alangilan Campus
 
 ## 💡 𝐖𝐡𝐚𝐭 𝐰𝐞 𝐥𝐞𝐚𝐫𝐧𝐞𝐝
 
+<div align="center">
+
+### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟷, 𝟸, 𝚊𝚗𝚍 𝟹
+
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
+
+### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟺
+
+ememememe
+
+### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟻
+
+emememe
+
+### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟼
+
+ememee
+
+### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟽
+
+emememe
+
+### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟾
+
+jejejeje
+
+### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟿
+
+kakaskds
+
+</div>
 
 ## ⚠️ 𝐄𝐫𝐫𝐨𝐫𝐬 𝐰𝐞 𝐟𝐨𝐮𝐧𝐝
 
