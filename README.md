@@ -45,7 +45,7 @@ In this chapter, we learned that data scaling and normalization are important st
 
 ### ── ⋆⋅ 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟼 ⋅⋆ ──
 
-ememee
+In Chapter 6, we learned that outliers are data points that are significantly different from most of the values in a dataset, and they can affect the accuracy of our analysis. Using the numbers 10, 12, 12, 15, 20, 21, 22, and 100, we understood that identifying unusual values depends on the method used. The Z-score method checks how far a value is from the mean in terms of standard deviations, while the IQR method identifies values that fall outside the expected range based on the middle 50% of the data. We learned that an unusual value should not automatically be removed because it might represent a real observation. Instead, we need to understand the data first and decide whether to keep, adjust, or remove the outlier depending on the situation.
 
 ### ── ⋆⋅ 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟽 ⋅⋆ ──
 
