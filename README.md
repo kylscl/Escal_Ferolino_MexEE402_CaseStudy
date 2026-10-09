@@ -41,7 +41,7 @@ In Chapter 4, we learned that preparing data for machine learning involves more 
 
 ### ── ⋆⋅ 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟻 ⋅⋆ ──
 
-emememe
+In this chapter, we learned that data scaling and normalization are important steps in preparing data for machine learning because different features can have very different numerical ranges. Using study hours and grades as our example, we understood that grades could have a greater influence on a model simply because their values are larger, even though study hours may also be important. We learned that standardization adjusts the data to have a mean of 0 and a standard deviation of 1, while normalization changes the values to a range of 0 to 1. This helped us understand that data needs to be prepared properly so that features can be compared fairly, and that scaling is not always necessary because it depends on the type of data and the machine learning algorithm being used.
 
 ### ── ⋆⋅ 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟼 ⋅⋆ ──
 
