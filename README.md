@@ -68,8 +68,7 @@ There are real ones in there. Finding them earns points.
 
 ## 💻 𝐍𝐨𝐭𝐞 𝐨𝐧 𝐀𝐈 𝐓𝐨𝐨𝐥𝐬
 
-Say whether you used an AI tool, and what for. This is not a penalty.
-Hiding it is.
+AI served as a supplementary learning resource throughout this activity, helping us understand unfamiliar concepts, interpret code outputs, identify possible errors and warnings, and explain the results in a clearer way. We used ChatGPT as a guide when analyzing the different chapters, especially when connecting the results of our code to the concepts discussed in our lessons. We acknowledge that AI contributed to our learning process, but we also recognize the importance of making our own efforts to understand the concepts, examine the code outputs, and reflect on the results. We used AI as a guide to clarify ideas and organize our explanations, while treating the activity as an opportunity to develop our own understanding of data analysis and machine learning. Through this, we also learned that AI can be a helpful learning tool, but it is still our responsibility to think critically, verify the information provided, and understand the reasoning behind the results rather than simply accepting answers without question.
 
 ## 🔗 𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬
 McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
