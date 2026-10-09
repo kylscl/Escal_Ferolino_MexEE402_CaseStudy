@@ -33,8 +33,7 @@ Batangas State University, Alangilan Campus
 
 ### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟷, 𝟸, 𝚊𝚗𝚍 𝟹
 
-One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
-you and what surprised you. Not what the library does, but what you understood.
+From Chapters 1 to 3, we learned that data analysis is not just about running codes and getting results, but also about making sure the data is organized, understandable, and reliable. We understood how to load a dataset, check its data types, examine its contents, and use statistical summaries to understand the information better. And it's fascinating how even a large dataset like video game sales can contain missing values and duplicate entries that could affect the accuracy of our analysis. We also learned that cleaning data involves making decisions, such as whether to replace missing values with the mean or most frequent value, or remove incomplete records. This taught us that preparing the data properly is just as important as analyzing it.
 
 ### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟺
 
