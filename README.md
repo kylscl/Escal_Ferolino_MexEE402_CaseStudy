@@ -27,7 +27,7 @@ Batangas State University, Alangilan Campus
 
 </div>
 
-## 💡 𝐖𝐡𝐚𝐭 𝐰𝐞 𝐥𝐞𝐚𝐫𝐧𝐞𝐝
+## 💡 𝐖𝐡𝐚𝐭 𝐖𝐞 𝐋𝐞𝐚𝐫𝐧𝐞𝐝
 
 <div align="center">
 
@@ -61,12 +61,12 @@ kakaskds
 
 </div>
 
-## ⚠️ 𝐄𝐫𝐫𝐨𝐫𝐬 𝐰𝐞 𝐟𝐨𝐮𝐧𝐝
+## ⚠️ 𝐄𝐫𝐫𝐨𝐫𝐬 𝐖𝐞 𝐅𝐨𝐮𝐧𝐝
 
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
-## 💻 𝐍𝐨𝐭𝐞 𝐨𝐧 𝐀𝐈 𝐭𝐨𝐨𝐥𝐬
+## 💻 𝐍𝐨𝐭𝐞 𝐨𝐧 𝐀𝐈 𝐓𝐨𝐨𝐥𝐬
 
 Say whether you used an AI tool, and what for. This is not a penalty.
 Hiding it is.
