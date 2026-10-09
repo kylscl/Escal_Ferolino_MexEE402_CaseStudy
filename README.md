@@ -66,6 +66,8 @@ In Chapter 9, we learned how a full pipeline works on the Titanic dataset. Age a
 On Chapter 4, the text says ordinal encoding gives Little = 1, Medium = 2, Lots = 3, but the code gives 0, 1, 2.
 For correction, change the text to 0, 1, 2.
 
+On Chapter 6, The text says 100 is “a clear outlier”, but the Z-score method found none, because its Z-score is only about 2.6.
+For correction, the cut off should be outliers = data[np.abs(z_scores) > 2.5] to make the statement 100 is a clear outlier true.
 
 ## 💻 𝐍𝐨𝐭𝐞 𝐨𝐧 𝐀𝐈 𝐓𝐨𝐨𝐥𝐬
 
