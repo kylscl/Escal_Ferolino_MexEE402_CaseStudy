@@ -31,31 +31,31 @@ Batangas State University, Alangilan Campus
 
 <div align="center">
 
-### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟷, 𝟸, 𝚊𝚗𝚍 𝟹
+### ── ⋆⋅ 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟷, 𝟸, 𝚊𝚗𝚍 𝟹 ⋅⋆ ──
 
 From Chapters 1 to 3, we learned that data analysis is not just about running codes and getting results, but also about making sure the data is organized, understandable, and reliable. We understood how to load a dataset, check its data types, examine its contents, and use statistical summaries to understand the information better. And it's fascinating how even a large dataset like video game sales can contain missing values and duplicate entries that could affect the accuracy of our analysis. We also learned that cleaning data involves making decisions, such as whether to replace missing values with the mean or most frequent value, or remove incomplete records. This taught us that preparing the data properly is just as important as analyzing it.
 
-### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟺
+### ── ⋆⋅ 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟺 ⋅⋆ ──
 
 In Chapter 4, we learned that preparing data for machine learning involves more than just using the information that is already available. We understood that creating new features can help us see relationships in the data that might not be obvious at first. For example, dividing lemonade sales by temperature gave us another way to examine sales, while grouping temperatures into categories made the data easier to interpret. We also learned that combining variables and creating squared values can help represent more complex patterns. Another important lesson was that categorical data must be encoded properly, since some categories have a natural order while others do not. This helped us understand that choosing the right way to transform data can affect how accurately a model interprets it.
 
-### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟻
+### ── ⋆⋅ 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟻 ⋅⋆ ──
 
 emememe
 
-### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟼
+### ── ⋆⋅ 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟼 ⋅⋆ ──
 
 ememee
 
-### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟽
+### ── ⋆⋅ 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟽 ⋅⋆ ──
 
 emememe
 
-### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟾
+### ── ⋆⋅ 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟾 ⋅⋆ ──
 
 jejejeje
 
-### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟿
+### ── ⋆⋅ 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟿 ⋅⋆ ──
 
 kakaskds
 
