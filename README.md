@@ -63,8 +63,9 @@ In Chapter 9, we learned how a full pipeline works on the Titanic dataset. Age a
 
 ## ⚠️ 𝐄𝐫𝐫𝐨𝐫𝐬 𝐖𝐞 𝐅𝐨𝐮𝐧𝐝
 
-List any mistake you found in the original notebooks, and the correct version.
-There are real ones in there. Finding them earns points.
+On Chapter 4, the text says ordinal encoding gives Little = 1, Medium = 2, Lots = 3, but the code gives 0, 1, 2.
+For correction, change the text to 0, 1, 2.
+
 
 ## 💻 𝐍𝐨𝐭𝐞 𝐨𝐧 𝐀𝐈 𝐓𝐨𝐨𝐥𝐬
 
