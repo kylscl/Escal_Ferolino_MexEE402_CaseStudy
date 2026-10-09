@@ -37,7 +37,7 @@ From Chapters 1 to 3, we learned that data analysis is not just about running co
 
 ### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟺
 
-ememememe
+In Chapter 4, we learned that preparing data for machine learning involves more than just using the information that is already available. We understood that creating new features can help us see relationships in the data that might not be obvious at first. For example, dividing lemonade sales by temperature gave us another way to examine sales, while grouping temperatures into categories made the data easier to interpret. We also learned that combining variables and creating squared values can help represent more complex patterns. Another important lesson was that categorical data must be encoded properly, since some categories have a natural order while others do not. This helped us understand that choosing the right way to transform data can affect how accurately a model interprets it.
 
 ### 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟻
 
