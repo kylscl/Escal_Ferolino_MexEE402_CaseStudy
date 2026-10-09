@@ -49,15 +49,15 @@ In Chapter 6, we learned that outliers are data points that are significantly di
 
 ### ── ⋆⋅ 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟽 ⋅⋆ ──
 
-emememe
+In Chapter 7, we learned that correlation shows how two columns move together, from -1 (perfect negative) to 1 (perfect positive), and that we can find it with df.corr(). We also learned that feature selection means keeping only the most useful columns, which makes the model faster and simpler and cuts down on noise. Using student data, we tried three methods. The filter method kept columns with a correlation above 0.5 (class participation, study hours, and assignments completed). RFECV removes the weakest column step by step and checks the score with cross-validation. LassoCV shrinks weak columns to zero (it kept study hours, class participation, and extracurricular activities). We learned that the methods can give different answers, so it helps to compare them.
 
 ### ── ⋆⋅ 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟾 ⋅⋆ ──
 
-jejejeje
+In Chapter 8, we learned that a preprocessing pipeline is a set of cleaning steps that run in order, so raw data goes in and comes out ready for the model. A pipeline gives us automation, efficiency, and results that are reliable and easy to repeat. Our pipeline first filled in missing values and then scaled the numbers. We also learned that ColumnTransformer lets us apply different steps to different columns, and we used it on the Age and Fare columns of the Titanic dataset.
 
 ### ── ⋆⋅ 𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟿 ⋅⋆ ──
 
-kakaskds
+In Chapter 9, we learned how to build a full pipeline for the Titanic dataset. Age and Fare were treated as numerical columns, and Embarked, Sex, and Pclass as categorical columns. Missing numbers were filled with the median, and missing categories were filled with the label “missing”. We also learned the using discretization to turn ages into Child (0 to 12), Adult (12 to 50), and Elderly (50 to 200). Finally, we made plots of survival count, survival by gender, and survival by passenger class.
 
 </div>
 
